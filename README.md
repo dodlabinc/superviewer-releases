@@ -65,32 +65,13 @@ Open superviewer → Settings → MCP section → **Install**.
 
 This registers superviewer as an MCP server in `~/.claude/settings.json`.
 
-### 3. Use from Claude Code
+### 3. Use
 
-```
-show("./chart.png", "image")
-show("./report.html", "html", { title: "Q3 Report" })
-```
-
-Content appears instantly in superviewer.
-
-## MCP Tools
-
-| Tool | Description |
-|---|---|
-| `show(source, type, meta?)` | Render a single file |
-| `show_group(items, meta?)` | Render multiple files as a group |
-| `capture(window?, meta?)` | Capture a screen/window and display |
+Ask Claude Code to generate or show any file — images, HTML, charts, videos. superviewer picks it up automatically via MCP. No extra commands needed.
 
 ## Remote Peers
 
-Send artifacts to another machine running superviewer:
-
-```
-show("./design.png", "image", { target: "imac-office" })
-```
-
-Manage peers in Settings → Peers. Devices discover each other via Tailscale IP or LAN.
+Send artifacts to another machine running superviewer over Tailscale or LAN. Manage peers in Settings → Peers.
 
 ## Auto-Update
 
