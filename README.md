@@ -82,4 +82,4 @@ superviewer checks for updates automatically every hour. When a new version is a
 
 ---
 
-Made by [Dodlab, Inc.](https://dodlab.kr)
+Made by [Dodraft](https://dodraft.studio)
