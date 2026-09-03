@@ -23,6 +23,10 @@
   <img src="marketing/hero.png" width="720" alt="superviewer main view">
 </p>
 
+<p align="center">
+  <video src="marketing/demo.mp4" width="720" controls muted playsinline></video>
+</p>
+
 ---
 
 ## What is superviewer?
@@ -43,15 +47,26 @@ One MCP tool call, and the content renders instantly in a persistent desktop vie
 - **Symmetric nodes.** Every device both serves and views. No central server.
 - **Remote peers.** Send artifacts to any machine on your network via Tailscale or LAN.
 - **Ephemeral serving.** Resources auto-expire with configurable TTL.
-- **Feed history.** Searchable, filterable timeline of everything you've viewed.
+- **Feed history.** Searchable, filterable timeline of everything you've viewed, with Received/Sent tabs.
+- **Markdown viewer.** In-app links, outline, tables, and Mermaid diagram rendering.
+- **Browser-like navigation.** Back/forward through viewed links and files.
+- **Live editing indicators.** See when a file you're viewing is still being updated by the agent.
 - **Auto-update.** Built-in updater with one-click install.
+
+## Pricing
+
+<p align="center">
+  <img src="marketing/pricing.png" width="720" alt="superviewer pricing">
+</p>
+
+Free to use. Pro unlocks remote peer sending and extra features — see in-app **Settings > Pricing** for details.
 
 ## Download
 
 **[Download latest release](https://github.com/dodlabinc/superviewer-releases/releases/latest)**
 
 | Platform | File | Architecture |
-|----------|------|-------------|
+|----------|------|--------------|
 | macOS | `.dmg` | Apple Silicon |
 
 ## Quick Start
