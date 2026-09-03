@@ -20,11 +20,15 @@
 <br>
 
 <p align="center">
-  <img src="marketing/hero.png" width="720" alt="superviewer main view">
+  <a href="https://github.com/dodlabinc/superviewer-releases/blob/main/marketing/demo.mp4">
+    <img src="marketing/demo-thumb.jpg" width="720" alt="Watch the superviewer demo video">
+  </a>
+  <br>
+  <sub>▶ <a href="https://github.com/dodlabinc/superviewer-releases/blob/main/marketing/demo.mp4">Watch the demo video</a></sub>
 </p>
 
 <p align="center">
-  <video src="marketing/demo.mp4" width="720" controls muted playsinline></video>
+  <img src="marketing/hero.png" width="720" alt="superviewer main view">
 </p>
 
 ---
@@ -44,6 +48,7 @@ One MCP tool call, and the content renders instantly in a persistent desktop vie
 - **Instant render.** Supports image, HTML, video, audio, markdown, and documents. No browser needed.
 - **MCP integration.** One `show()` call from Claude Code. Nothing to configure after install.
 - **Drag & drop.** Drop files onto the window or open them from Finder with "Open With."
+- **Split view.** Compare up to 4 files side by side.
 - **Symmetric nodes.** Every device both serves and views. No central server.
 - **Remote peers.** Send artifacts to any machine on your network via Tailscale or LAN.
 - **Ephemeral serving.** Resources auto-expire with configurable TTL.
@@ -56,10 +61,12 @@ One MCP tool call, and the content renders instantly in a persistent desktop vie
 ## Pricing
 
 <p align="center">
-  <img src="marketing/pricing.png" width="720" alt="superviewer pricing">
+  <img src="marketing/pricing.png" width="720" alt="superviewer pricing: Free vs Pro">
 </p>
 
-Free to use. Pro unlocks remote peer sending and extra features — see in-app **Settings > Pricing** for details.
+**Free** covers the full viewing loop — instant render, screen/window capture, split view (up to 4 files side by side), remote viewing over Tailscale/LAN, ephemeral serving, searchable feed history and auto-update. Forever, no subscription.
+
+**Pro ($19, one-time)** adds the feedback loop: annotate renders (pin, region, arrow, draw, text, timestamp), your agent reads and fixes every note one by one, notes get marked done as they're handled, feedback syncs in from your other machines, plus artifact downloads (incl. ZIP) and a perpetual license with 1 year of updates.
 
 ## Download
 
