@@ -20,11 +20,11 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/dodlabinc/superviewer-releases/blob/main/marketing/demo.mp4">
+  <a href="https://raw.githubusercontent.com/dodlabinc/superviewer-releases/main/marketing/demo.mp4">
     <img src="marketing/demo-thumb.jpg" width="720" alt="Watch the superviewer demo video">
   </a>
   <br>
-  <sub>▶ <a href="https://github.com/dodlabinc/superviewer-releases/blob/main/marketing/demo.mp4">Watch the demo video</a></sub>
+  <sub>▶ <a href="https://raw.githubusercontent.com/dodlabinc/superviewer-releases/main/marketing/demo.mp4">Watch the demo video</a></sub>
 </p>
 
 <p align="center">
